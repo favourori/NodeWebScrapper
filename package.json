@@ -1,0 +1,11 @@
+{
+  "name": "nodescrapper",
+  "version": "1.0.0",
+  "description": "Node Js Scrapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Favor Ori",
+  "license": "ISC"
+}
